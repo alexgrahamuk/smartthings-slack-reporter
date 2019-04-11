@@ -1,5 +1,6 @@
 definition(
         name: "Smartthings Slack Reporter",
+        author: "alex@a-graham.com",
         namespace: "alexgrahamuk",
         description: "Allows you to log various Smartthings events to slack.",
         category: "My Apps",
